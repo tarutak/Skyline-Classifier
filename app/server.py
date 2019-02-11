@@ -7,7 +7,7 @@ from io import BytesIO
 from fastai.vision import *
 import base64
 
-model_file_url = 'https://drive.google.com/uc?export=download&confirm=FiST&id=1Uhkwvtn1WvAm-eByk3dYwJBpZgyL0dR2?raw=true'
+model_file_url = 'https://drive.google.com/uc?export=download&id=ttps://drive.google.com/open?id=1Uhkwvtn1WvAm-eByk3dYwJBpZgyL0dR'
 model_file_name = 'model'
 classes = ['New York','Dubai','Chicago','Hongkong']
 
